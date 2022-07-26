@@ -1,0 +1,36 @@
+{
+    "Image": "picture.jpg",
+    
+    "FullName": "Rochel Furton",
+    "Profession": "Front-end Developer",
+    "Phone": "0912-345-6789",
+    "Email": "rfurton@gmail.com",
+
+    "Header1": "About",
+    "Qualifications": "Creative and self-starting Front-End Developer with 5 years experience building stable eCommerce websites and apps in fast-paced, collaborative environments. Highly skilled in HTML/CSS/JavaScript/JQuery and working knowledge of Photoshop. Well-versed in Scrum and Agile.",
+
+    "Header2": "Work Experience",
+    "Position": "Front-end Web Designer",
+    "Company": "Morivy Data and Technology Inc. (2017-2022)",
+    "JobDescription": "Deliver engaging user experience through optimization of images, code, and cross-browser compatibility, increasing Time on Page by +60 seconds for +50 websites.",
+
+    "Header3": "Skills",
+    "SubHeader1": "Languages",
+    "Skill1": "HTML",
+    "Skill2": "CSS",
+    "Skill3": "JavaScript",
+    "Skill4": "Python",
+    "SubHeader2": "Libraries",
+    "Skill5": "React",
+    "Skill6": "JQuery",
+    "SubHeader3": "Frameworks",
+    "Skill7": "Angular.js",
+    "Skill8": "Node.js",
+
+
+    "Header4": "Education",
+    "Course": "Bachelor of Science in Computer Engineering",
+    "School": "Polytechnic University of the Philippines",
+    "Year": "2012-2017"
+
+}

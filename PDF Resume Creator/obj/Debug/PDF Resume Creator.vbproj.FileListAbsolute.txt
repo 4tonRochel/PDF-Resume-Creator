@@ -1,0 +1,17 @@
+C:\Users\SherylMejia\Documents\PDF Resume Creator\PDF Resume Creator\bin\Debug\PDF Resume Creator.exe.config
+C:\Users\SherylMejia\Documents\PDF Resume Creator\PDF Resume Creator\bin\Debug\PDF Resume Creator.exe
+C:\Users\SherylMejia\Documents\PDF Resume Creator\PDF Resume Creator\bin\Debug\PDF Resume Creator.pdb
+C:\Users\SherylMejia\Documents\PDF Resume Creator\PDF Resume Creator\bin\Debug\PDF Resume Creator.xml
+C:\Users\SherylMejia\Documents\PDF Resume Creator\PDF Resume Creator\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SherylMejia\Documents\PDF Resume Creator\PDF Resume Creator\bin\Debug\itextsharp.dll
+C:\Users\SherylMejia\Documents\PDF Resume Creator\PDF Resume Creator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SherylMejia\Documents\PDF Resume Creator\PDF Resume Creator\bin\Debug\itextsharp.xml
+C:\Users\SherylMejia\Documents\PDF Resume Creator\PDF Resume Creator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SherylMejia\Documents\PDF Resume Creator\PDF Resume Creator\obj\Debug\PDF Resume Creator.vbproj.AssemblyReference.cache
+C:\Users\SherylMejia\Documents\PDF Resume Creator\PDF Resume Creator\obj\Debug\PDF_Resume_Creator.Form1.resources
+C:\Users\SherylMejia\Documents\PDF Resume Creator\PDF Resume Creator\obj\Debug\PDF_Resume_Creator.Resources.resources
+C:\Users\SherylMejia\Documents\PDF Resume Creator\PDF Resume Creator\obj\Debug\PDF Resume Creator.vbproj.GenerateResource.cache
+C:\Users\SherylMejia\Documents\PDF Resume Creator\PDF Resume Creator\obj\Debug\PDF Resume Creator.vbproj.CoreCompileInputs.cache
+C:\Users\SherylMejia\Documents\PDF Resume Creator\PDF Resume Creator\obj\Debug\PDF Resume Creator.exe
+C:\Users\SherylMejia\Documents\PDF Resume Creator\PDF Resume Creator\obj\Debug\PDF Resume Creator.xml
+C:\Users\SherylMejia\Documents\PDF Resume Creator\PDF Resume Creator\obj\Debug\PDF Resume Creator.pdb
