@@ -163,4 +163,11 @@ Public Class Form1
         Public Property School As String
         Public Property Year As String
     End Class
+
+    Private Sub btnExit_Click(sender As Object, e As EventArgs) Handles btnExit.Click
+        Dim iExit As DialogResult = MessageBox.Show("Confirm if you want to exit", "Resume Generator", MessageBoxButtons.OKCancel, MessageBoxIcon.Information)
+        If iExit = DialogResult.OK Then
+            Application.Exit()
+        End If
+    End Sub
 End Class
